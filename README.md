@@ -1,16 +1,15 @@
-## Hi there 👋
+## ✨ HELEN ✨ 
+# ¡Hola! Soy Helen Farina Rentería
 
-<!--
-**Helen-Renteria/Helen-Renteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo 18 años y soy estudiante de **Ingeniería de Sistemas**. Me apasiona aprender cosas nuevas y estoy en constante búsqueda de oportunidades para mejorar mis habilidades.
 
-Here are some ideas to get you started:
+## Actualmente estoy:
+- Tomando un curso para aprender **Python**.
+- Explorando el mundo de las **bases de datos** en la universidad.
+- Muy interesada en profundizar en **ciberseguridad** y **programación**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Siempre abierta a nuevas oportunidades para seguir aprendiendo y creciendo 🚀.
+
+---
+
+![Computadora y persona sonriendo](https://pin.it/4JOQ3Cfun)
