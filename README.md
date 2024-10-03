@@ -11,5 +11,4 @@ Tengo 18 años y soy estudiante de **Ingeniería de Sistemas**. Me apasiona apre
 ### Siempre abierta a nuevas oportunidades para seguir aprendiendo y creciendo 🚀.
 
 ---
-
-![Computadora y persona sonriendo](https://pin.it/4JOQ3Cfun)
+❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
