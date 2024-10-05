@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 
 ## ✨ HELEN ✨ 
 # ¡Hola! Soy Helen Farina Rentería
