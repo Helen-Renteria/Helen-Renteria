@@ -1,4 +1,4 @@
-![Header]( C:\Users\USUARIO\Downloads\github-header-image.png)
+![Header](github-header-image.png)
 
 ## ✨ HELEN ✨ 
 # ¡Hola! Soy Helen Farina Rentería
